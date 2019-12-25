@@ -167,6 +167,7 @@
     .highway
     {
         width: 1000%;
+        animation: highway 15s linear infinite;
     }
 
     .city
@@ -216,6 +217,7 @@
     .highway
     {
         width: 1100%;
+        animation: highway 15s linear infinite;
     }
 
     .wheel{
@@ -243,6 +245,7 @@
     .highway
     {
         width: 1500%;
+        animation: highway 15s linear infinite;
     }
 
     .wheel{
